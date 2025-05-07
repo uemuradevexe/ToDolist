@@ -1,0 +1,14 @@
+C:\Users\ricar\source\repos\ToDolist\ToDolist\bin\Debug\net8.0\ToDolist.exe
+C:\Users\ricar\source\repos\ToDolist\ToDolist\bin\Debug\net8.0\ToDolist.deps.json
+C:\Users\ricar\source\repos\ToDolist\ToDolist\bin\Debug\net8.0\ToDolist.runtimeconfig.json
+C:\Users\ricar\source\repos\ToDolist\ToDolist\bin\Debug\net8.0\ToDolist.dll
+C:\Users\ricar\source\repos\ToDolist\ToDolist\bin\Debug\net8.0\ToDolist.pdb
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ToDolist.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ToDolist.AssemblyInfoInputs.cache
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ToDolist.AssemblyInfo.cs
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ToDolist.csproj.CoreCompileInputs.cache
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ToDolist.dll
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\refint\ToDolist.dll
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ToDolist.pdb
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ToDolist.genruntimeconfig.cache
+C:\Users\ricar\source\repos\ToDolist\ToDolist\obj\Debug\net8.0\ref\ToDolist.dll
